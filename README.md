@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **raihansyahrin@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/Portfolio_RaihanSyahrin](bit.ly/Portfolio_RaihanSyahrin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
