@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansyahrin&label=Profile%20views&color=0e75b6&style=flat" alt="raihansyahrin" /> </p>
 
-- 🔭 I’m currently working on **GetCrew (Flutter)**
+- 🔭 I’m currently working on **INDI TECHNOLOGY AS A MOBILE DEVELOPER (FLUTTER)**
 
 - 🌱 I’m currently learning **Flutter, SwiftUI, NextJS**
 
