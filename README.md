@@ -5,13 +5,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhamad Raihan Syahrin Sya'bani</h1>
-<h3 align="center">Enthusiast in Mobile Developer(Flutter) and love of new things.</h3>
+<h3 align="center">Enthusiast in Mobile App Development and love of new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansyahrin&label=Profile%20views&color=0e75b6&style=flat" alt="raihansyahrin" /> </p>
 
-- 🔭 I’m currently working on **INDI TECHNOLOGY AS A MOBILE DEVELOPER (FLUTTER)**
+- 🔭 I’m currently working at **SUITMEDIA AS A MOBILE DEVELOPER (FLUTTER)**
 
-- 🌱 I’m currently learning **Flutter, SwiftUI, NextJS**
+- 🌱 I’m currently learning **Flutter, LLM, SwiftUI, Golang, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raihansyahrin](https://github.com/raihansyahrin)
 
