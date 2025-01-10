@@ -9,9 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raihansyahrin&label=Profile%20views&color=0e75b6&style=flat" alt="raihansyahrin" /> </p>
 
-- 🔭 I’m currently working at **SUITMEDIA AS A MOBILE DEVELOPER (FLUTTER)**
-
-- 🌱 I’m currently learning **Flutter, LLM, SwiftUI, Golang, NextJS**
+- 🌱 I’m currently learning **Flutter, Supabase, LLM, SwiftUI, Golang.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raihansyahrin](https://github.com/raihansyahrin)
 
